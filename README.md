@@ -1,4 +1,4 @@
-# Aversarial Attacks Example in Pytorch
+# Adversarial Attacks Example in Pytorch
 
 This repository contains a sample PyTorch implementation of adversarial attacks.
 
